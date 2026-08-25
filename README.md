@@ -35,7 +35,7 @@ A survival-game prototype exploring event-driven communication between gameplay 
 
 ## Tools and technologies
 
-`Unity 6` `C#` `Netcode for GameObjects` `Unity Input System` `Cinemachine` `Git` `C++`
+`Unity` `C#` `Git`
 
 ## Contact
 
